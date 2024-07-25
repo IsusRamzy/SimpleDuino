@@ -1,4 +1,4 @@
-#include "SimpleDuino.ino"
+#include "SimpleDuino.cpp"
 
 TwoMotors myrobot;
 
